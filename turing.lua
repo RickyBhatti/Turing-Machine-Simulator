@@ -212,8 +212,6 @@ while currentInstruction ~= "-" do
                 currentHeadPosition = currentHeadPosition + 1
             end
             
-            
-            printTape()
             break
         end
     end
